@@ -33,9 +33,9 @@ Juego de lucha por turnos entre criaturas fantásticas, con combates automatizad
 ⚔️ Programado en Java sin interfaz gráfica, enfocado en la lógica de combate, creación y gestión de personajes.
 </p>
 
-<h2 align="left">Idiomas:</h2>
-<ul align="left">
-  <li>Español - Nativo</li>
-  <li>Inglés - Avanzado (Nivel C2)</li>
-  <li>Portugués - Intermedio</li>
-</ul>
+<h2>🌍 Idiomas</h2>
+<table>
+  <tr><td>🇪🇸 Español</td><td>Nativo</td></tr>
+  <tr><td>🇬🇧 Inglés</td><td>Avanzado (Nivel C2)</td></tr>
+  <tr><td>🇧🇷 Portugués</td><td>Intermedio</td></tr>
+</table>
