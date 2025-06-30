@@ -11,24 +11,23 @@
 
 <h2 align="left">🚀 Proyectos destacados</h2>
 
-<p><strong>🌐 WebApp Full-Stack (Spring Boot, Angular, MySQL)</strong><br>
+**[🌐 WebApp Full-Stack (Spring Boot, Angular, MySQL)](https://github.com/arturox2500/PujaHoy-WebApp)**  
 Aplicación web desarrollada usando Java (Spring Boot), Angular y MySQL; incluye gestión de usuarios, productos, ofertas, transacciones, valoraciones y control de roles. <br>
 🐳 Desplegada con Docker.
 </p>
 
-<p><strong>⚙️ MiniShell en C</strong><br>
+**[⚙️ MiniShell en C](https://github.com/arturox2500/MiniShell)**  
 Shell programada en C con ejecución de comandos, redirecciones, gestión de procesos en primer y segundo plano, control por señales y manejo de errores. <br>
 🖥️ Implementa aspectos como concurrencia, control de señales (Ctrl+C / Ctrl+Z) y redirección de entrada/salida.
 </p>
 
-
-<p><strong>🎮 Evolución del Juego Stratego (JavaFX, SOLID)</strong><br>
+**[🎮 Evolución del Juego Stratego (JavaFX, SOLID)](https://github.com/arturox2500/Stratego-SOLID)**  
 Partiendo de un fork del Stratego original con JavaFX, se reestructuró el proyecto aplicando principios SOLID y se añadieron funcionalidades como selección automática de piezas y chat en línea. <br>
 🎯 Mejora la arquitectura.
 </p>
 
 
-<p><strong>🐉 Juego de Combate por Turnos en Java</strong><br>
+**[🐉 Juego de Combate por Turnos en Java](https://github.com/arturox2500/CombatePorTurnos)**  
 Juego de lucha por turnos entre criaturas fantásticas, con combates automatizados, edición completa de personajes y dos tipos de usuario: administrador y jugador. <br>
 ⚔️ Programado en Java sin interfaz gráfica, enfocado en la lógica de combate, creación y gestión de personajes.
 </p>
