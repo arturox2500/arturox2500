@@ -33,8 +33,16 @@ Juego de lucha por turnos entre criaturas fantásticas, con combates automatizad
 </p>
 
 <h2>🌍 Idiomas</h2>
-<table>
-  <tr><td>🇪🇸 Español</td><td>Nativo</td></tr>
-  <tr><td>🇬🇧 Inglés</td><td>Avanzado (Nivel C2)</td></tr>
-  <tr><td>🇧🇷 Portugués</td><td>Intermedio</td></tr>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th>Idioma</th>
+      <th>Nivel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🇪🇸 Español</td><td>Nativo</td></tr>
+    <tr><td>🇬🇧 Inglés</td><td>Avanzado (Nivel C2)</td></tr>
+    <tr><td>🇧🇷 Portugués</td><td>Intermedio</td></tr>
+  </tbody>
 </table>
